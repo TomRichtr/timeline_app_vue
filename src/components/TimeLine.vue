@@ -153,7 +153,7 @@ export default {
   display: none;
 }
 .name {
-  margin-top: $s-size;
+  margin-top: $m-size;
   padding-top: $s-size;
 }
 .titles {
